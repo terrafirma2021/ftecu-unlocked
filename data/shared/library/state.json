@@ -1,0 +1,580 @@
+{
+  "schema_version": 2,
+  "files": {
+    "contact002@example.invalid/2017 FZ-07 - 2RC-8591A-20(US) - Unrestrict.ftm": {
+      "index": 1,
+      "source_file": "files/00001-2017 FZ-07 - 2RC-8591A-20(US) - Unrestrict.ftm",
+      "remote_path": "contact002@example.invalid/2017 FZ-07 - 2RC-8591A-20(US) - Unrestrict.ftm",
+      "source_sha256": "64ae8ba5261897964fd539d43c14056b64be73bdd75b5fdc2a7f0a4425f4fe77",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:28:45.651949+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/64ae8ba5261897964fd539d43c14056b64be73bdd75b5fdc2a7f0a4425f4fe77.json",
+      "decrypted": true,
+      "decoded_sha256": "6ff193859fe8e0c0a8487f092f9af85954a0df5b3af17a7e306ee378e31ce14e",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00001",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "JS00YS0"
+        }
+      ],
+      "error": null
+    },
+    "contact003@example.invalid/08-09 GSXR600 - 32920-37H00(EU) StockECU.ftm": {
+      "index": 2,
+      "source_file": "files/00002-08-09 GSXR600 - 32920-37H00(EU) StockECU.ftm",
+      "remote_path": "contact003@example.invalid/08-09 GSXR600 - 32920-37H00(EU) StockECU.ftm",
+      "source_sha256": "413adfe39c7db45412ec924f7fe639b7abfa000900d5c2c86ee472bf78f180dd",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:29:04.662856+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/413adfe39c7db45412ec924f7fe639b7abfa000900d5c2c86ee472bf78f180dd.json",
+      "decrypted": true,
+      "decoded_sha256": "dcfea5803884b5e17498074e64b78268f5a138e5d1ccf410f9943397ba78fc80",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00002",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "DJ55SE0"
+        }
+      ],
+      "error": null
+    },
+    "contact004@example.invalid/Alicia Fuel trim.ftm": {
+      "index": 3,
+      "source_file": "files/00003-Alicia Fuel trim.ftm",
+      "remote_path": "contact004@example.invalid/Alicia Fuel trim.ftm",
+      "source_sha256": "6d481756dd9bb9732e719e7d6da34890d613df23c8c86f229a7cdeff4576246c",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:29:23.494516+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/6d481756dd9bb9732e719e7d6da34890d613df23c8c86f229a7cdeff4576246c.json",
+      "decrypted": true,
+      "decoded_sha256": "6faa93432684cff27a017ef047b0fe770163fde9d03e1e0ce90e55055dd9d536",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00003",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "CPB3KPU"
+        }
+      ],
+      "error": null
+    },
+    "contact005@example.invalid/BRIGHT 16 MR12  1-22-19 R.ftm": {
+      "index": 4,
+      "source_file": "files/00004-BRIGHT 16 MR12  1-22-19 R.ftm",
+      "remote_path": "contact005@example.invalid/BRIGHT 16 MR12  1-22-19 R.ftm",
+      "source_sha256": "a9a7ec69200c9265de3cda3ddd0c50ad36610c5707fdc5478347553c7c80477a",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:29:46.225761+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/a9a7ec69200c9265de3cda3ddd0c50ad36610c5707fdc5478347553c7c80477a.json",
+      "decrypted": true,
+      "decoded_sha256": "224abfb4383d81f096a7debf2548ea8d3fd0b158ef7923fc92a851f8e6599778",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00004",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "BH02YP0"
+        }
+      ],
+      "error": null
+    },
+    "contact005@example.invalid/BRIGHT 16 PUMP 1-22-19 R.ftm": {
+      "index": 5,
+      "source_file": "files/00005-BRIGHT 16 PUMP 1-22-19 R.ftm",
+      "remote_path": "contact005@example.invalid/BRIGHT 16 PUMP 1-22-19 R.ftm",
+      "source_sha256": "c0feef02fd17e956c055e46d7b83218a68ed2cfac77ab831dc64e05ec1257932",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:30:05.116262+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/c0feef02fd17e956c055e46d7b83218a68ed2cfac77ab831dc64e05ec1257932.json",
+      "decrypted": true,
+      "decoded_sha256": "72c3d67fb7d254798bcd48dc3b3941b24208c94547a7c67514601554231934e4",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00005",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "BH02YP0"
+        }
+      ],
+      "error": null
+    },
+    "contact006@example.invalid/jose.ftm": {
+      "index": 6,
+      "source_file": "files/00006-jose.ftm",
+      "remote_path": "contact006@example.invalid/jose.ftm",
+      "source_sha256": "3b907edc48d805577ae9e3355c3ae9cfcd030f707a6e90f03d08b6bef577e569",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:30:23.890865+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/3b907edc48d805577ae9e3355c3ae9cfcd030f707a6e90f03d08b6bef577e569.json",
+      "decrypted": true,
+      "decoded_sha256": "c6dda6ffe6f38cacea3c44eb9948c7f03aa951cd8dee36406eb74d3b0a7775c7",
+      "decoded_bytes": 524288,
+      "output_folder": "decoded\\00006",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 524272,
+          "text": "A410Yg0"
+        }
+      ],
+      "error": null
+    },
+    "contact007@example.invalid/2017 Raul R6 V1.1.ftm": {
+      "index": 7,
+      "source_file": "files/00007-2017 Raul R6 V1.1.ftm",
+      "remote_path": "contact007@example.invalid/2017 Raul R6 V1.1.ftm",
+      "source_sha256": "9ddf51ff33e9553ad10f4abedc2b93149c05568d6010a9be9fa27c0dec191645",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:30:42.805345+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/9ddf51ff33e9553ad10f4abedc2b93149c05568d6010a9be9fa27c0dec191645.json",
+      "decrypted": true,
+      "decoded_sha256": "cb6c58e20cf6fb5924f6d65e2532587acaa28cd74c0ece510216931dc8f41885",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00007",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "KV08YZ0"
+        }
+      ],
+      "error": null
+    },
+    "contact009@example.invalid/13-15 ZX636 - 21175-0810(US-ABS) Unrestricted + Graves Slipon.ftm": {
+      "index": 8,
+      "source_file": "files/00008-13-15 ZX636 - 21175-0810(US-ABS) Unrestricted + Graves Slipon.ftm",
+      "remote_path": "contact009@example.invalid/13-15 ZX636 - 21175-0810(US-ABS) Unrestricted + Graves Slipon.ftm",
+      "source_sha256": "147f909620e5c3bf403a284f3eea5b56a21b885d845ec7989763c75896e2a028",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:31:03.243082+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/147f909620e5c3bf403a284f3eea5b56a21b885d845ec7989763c75896e2a028.json",
+      "decrypted": true,
+      "decoded_sha256": "078c8b4cb93956245ee9f7fe21e4f9787a9b3ed4f3e2c50f3cdf6377c4b9c1a1",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00008",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "CPB2KPU"
+        }
+      ],
+      "error": null
+    },
+    "contact010@example.invalid/2015 H2 - 21175-0987(EU) MBv011.ftm": {
+      "index": 9,
+      "source_file": "files/00009-2015 H2 - 21175-0987(EU) MBv011.ftm",
+      "remote_path": "contact010@example.invalid/2015 H2 - 21175-0987(EU) MBv011.ftm",
+      "source_sha256": "061830814804a22f60fee014b7a082f19b0df6586124dd7b818a9423244e1772",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:31:22.242356+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/061830814804a22f60fee014b7a082f19b0df6586124dd7b818a9423244e1772.json",
+      "decrypted": true,
+      "decoded_sha256": "6c9e2b68b80862cb86fa4d8304da0728077fb36133c064e9caba9e3399c7b63b",
+      "decoded_bytes": 1310720,
+      "output_folder": "decoded\\00009",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 201216,
+          "text": "FG1274B"
+        }
+      ],
+      "error": null
+    },
+    "contact011@example.invalid/2MS-H591A-01-2018R3-Canada.ftm": {
+      "index": 10,
+      "source_file": "files/00010-2MS-H591A-01-2018R3-Canada.ftm",
+      "remote_path": "contact011@example.invalid/2MS-H591A-01-2018R3-Canada.ftm",
+      "source_sha256": "d795fa3c08c715c9b13bad710d4b28ac83ec3252a3833b6a1194f602acc87a5b",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:31:40.713692+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/d795fa3c08c715c9b13bad710d4b28ac83ec3252a3833b6a1194f602acc87a5b.json",
+      "decrypted": true,
+      "decoded_sha256": "06210c82d595cbcd4c9d663dcc69a7d3505aba37e08b50dc453b60379719c1a7",
+      "decoded_bytes": 131072,
+      "output_folder": "decoded\\00010",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 128880,
+          "text": "YK05AA2"
+        }
+      ],
+      "error": null
+    },
+    "contact012@example.invalid/12-13 XT1200 - 23P-8591A-30(US) -  Unrestricted- Richer low RPM and TP.ftm": {
+      "index": 11,
+      "source_file": "files/00011-12-13 XT1200 - 23P-8591A-30(US) -  Unrestricted- Richer low RPM and TP.ftm",
+      "remote_path": "contact012@example.invalid/12-13 XT1200 - 23P-8591A-30(US) -  Unrestricted- Richer low RPM and TP.ftm",
+      "source_sha256": "d33e067aaa4a7a3f857455427baac781f64e0b7798501e8a7bf96941cec3af3a",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:32:00.043571+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/d33e067aaa4a7a3f857455427baac781f64e0b7798501e8a7bf96941cec3af3a.json",
+      "decrypted": true,
+      "decoded_sha256": "03743bfae42c032341a1516231c1df75387ef1f38548354ba2e4100b29f949f8",
+      "decoded_bytes": 786432,
+      "output_folder": "decoded\\00011",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 786416,
+          "text": "1G0FYS0"
+        }
+      ],
+      "error": null
+    },
+    "contact013@example.invalid/13-19 GSXR600 - 32920-14J90(CAL) Unrestricted.ftm": {
+      "index": 12,
+      "source_file": "files/00012-13-19 GSXR600 - 32920-14J90(CAL) Unrestricted.ftm",
+      "remote_path": "contact013@example.invalid/13-19 GSXR600 - 32920-14J90(CAL) Unrestricted.ftm",
+      "source_sha256": "ab4101961f77f275074ab1056bf7715929f386d787fb4b245a0ab2e2a88f9cd8",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:32:18.771965+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/ab4101961f77f275074ab1056bf7715929f386d787fb4b245a0ab2e2a88f9cd8.json",
+      "decrypted": true,
+      "decoded_sha256": "0c3d19f487643a75a8f5ea8b82e01b0c0d38623472c531c67d46d6842dc25243",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00012",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "DJE5SE9"
+        }
+      ],
+      "error": null
+    },
+    "Ryno AZ/Ryno 2008-2016 Yamaha R6.ftm": {
+      "index": 13,
+      "source_file": "files/00013-Ryno 2008-2016 Yamaha R6.ftm",
+      "remote_path": "Ryno AZ/Ryno 2008-2016 Yamaha R6.ftm",
+      "source_sha256": "388ec2ce410709208291fe08126468a9fc0decea028ece43550850690952c210",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:32:37.563803+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/388ec2ce410709208291fe08126468a9fc0decea028ece43550850690952c210.json",
+      "decrypted": true,
+      "decoded_sha256": "6e28bd4002ce7d20ee3ba5eace56f5e368e87e68ae7eb06ce46a9aa302ab3a73",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00013",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "HJ01YSF"
+        }
+      ],
+      "error": null
+    },
+    "Ryno AZ/Ryno 2012-2014 Yamaha YZF-R1 2021.ftm": {
+      "index": 14,
+      "source_file": "files/00014-Ryno 2012-2014 Yamaha YZF-R1 2021.ftm",
+      "remote_path": "Ryno AZ/Ryno 2012-2014 Yamaha YZF-R1 2021.ftm",
+      "source_sha256": "0190d487769a877bf2bf7da92369c2cbd08c9f5f3955606483a8bba93d7f52b1",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:32:56.322476+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/0190d487769a877bf2bf7da92369c2cbd08c9f5f3955606483a8bba93d7f52b1.json",
+      "decrypted": true,
+      "decoded_sha256": "62e5f32b1977d67f7c14c0cecb59738744924b83a33c7264421c82d57d69393f",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00014",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "G706YPF"
+        }
+      ],
+      "error": null
+    },
+    "Ryno AZ/Ryno 2012-2014 Yamaha YZF-R1.ftm": {
+      "index": 15,
+      "source_file": "files/00015-Ryno 2012-2014 Yamaha YZF-R1.ftm",
+      "remote_path": "Ryno AZ/Ryno 2012-2014 Yamaha YZF-R1.ftm",
+      "source_sha256": "3929591b06d506167cc42d7f1105a0d33ceab1c47267a389d2c286c5e49b579a",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:33:15.143603+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/3929591b06d506167cc42d7f1105a0d33ceab1c47267a389d2c286c5e49b579a.json",
+      "decrypted": true,
+      "decoded_sha256": "5dc3b7c06cae4588f09225c88b266b2d19d66f0a47a72fa0ab69d374247c6936",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00015",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "G706YPF"
+        }
+      ],
+      "error": null
+    },
+    "Ryno AZ/Ryno 2015 - current Yamaha FJ09.ftm": {
+      "index": 16,
+      "source_file": "files/00016-Ryno 2015 - current Yamaha FJ09.ftm",
+      "remote_path": "Ryno AZ/Ryno 2015 - current Yamaha FJ09.ftm",
+      "source_sha256": "07e52017a8509deab179dc3b5df4bec8116d5cb003ed709e4f064e9fabdc6fcf",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:33:34.010820+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/07e52017a8509deab179dc3b5df4bec8116d5cb003ed709e4f064e9fabdc6fcf.json",
+      "decrypted": true,
+      "decoded_sha256": "98ed92607a6534fd1d7a75696b1310822ad7c836deaa62b997e7861ca3cba00c",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00016",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "KE04YP1"
+        }
+      ],
+      "error": null
+    },
+    "contact014@example.invalid/CBR 1000rr SP1 2017 STOCK ECU 38770-MKF-C12.ftm": {
+      "index": 17,
+      "source_file": "files/00017-CBR 1000rr SP1 2017 STOCK ECU 38770-MKF-C12.ftm",
+      "remote_path": "contact014@example.invalid/CBR 1000rr SP1 2017 STOCK ECU 38770-MKF-C12.ftm",
+      "source_sha256": "2312c963cfc5ee65aa79ac42112d5ce2924422ee23e7bb362034a9599acadbcb",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:33:52.855038+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/2312c963cfc5ee65aa79ac42112d5ce2924422ee23e7bb362034a9599acadbcb.json",
+      "decrypted": true,
+      "decoded_sha256": "3f154b7e7bf9f6481be2ea991d5f483f9d4b1e7e914ad835fe38dd3b1c6cf4b9",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00017",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048412,
+          "text": "MKFA20A"
+        }
+      ],
+      "error": null
+    },
+    "TAD158 (R1-Forum.com)/2009-2011-CAD-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm": {
+      "index": 18,
+      "source_file": "files/00018-2009-2011-CAD-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm",
+      "remote_path": "TAD158 (R1-Forum.com)/2009-2011-CAD-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm",
+      "source_sha256": "4eacd1c4fe67f4858d1e134fc51518b0dc35c51dd667752ebcfab18a5e3c857b",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:34:11.556198+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/4eacd1c4fe67f4858d1e134fc51518b0dc35c51dd667752ebcfab18a5e3c857b.json",
+      "decrypted": true,
+      "decoded_sha256": "d3795c1941b9bcdf9cae5a1d3beab5013022257ec652bade7cc3b8dbba5f0216",
+      "decoded_bytes": 786432,
+      "output_folder": "decoded\\00018",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 786416,
+          "text": "110CYP0"
+        }
+      ],
+      "error": null
+    },
+    "TAD158 (R1-Forum.com)/2009-2011-EU-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm": {
+      "index": 19,
+      "source_file": "files/00019-2009-2011-EU-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm",
+      "remote_path": "TAD158 (R1-Forum.com)/2009-2011-EU-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm",
+      "source_sha256": "8f6fbe97f508adaf0fb30d72d98544bfb6cb627c93ae3685c9cd82764adf9bfa",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:34:30.280180+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/8f6fbe97f508adaf0fb30d72d98544bfb6cb627c93ae3685c9cd82764adf9bfa.json",
+      "decrypted": true,
+      "decoded_sha256": "6a2c852ead4b02111ebf5959af64254ca8a5567ad0c49effcae55f2c9134ac72",
+      "decoded_bytes": 786432,
+      "output_folder": "decoded\\00019",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 786416,
+          "text": "110CYP0"
+        }
+      ],
+      "error": null
+    },
+    "TAD158 (R1-Forum.com)/2009-2011-US-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm": {
+      "index": 20,
+      "source_file": "files/00020-2009-2011-US-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm",
+      "remote_path": "TAD158 (R1-Forum.com)/2009-2011-US-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm",
+      "source_sha256": "a2bef1c80a77596bb4e0df18b22bbef7b1dd0a6989c8a51c7906f47ad5500653",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:34:48.954786+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/a2bef1c80a77596bb4e0df18b22bbef7b1dd0a6989c8a51c7906f47ad5500653.json",
+      "decrypted": true,
+      "decoded_sha256": "4d15b8f60bc927044d3d771423b210d5dad6dce5929c480d42660b6a644a7029",
+      "decoded_bytes": 786432,
+      "output_folder": "decoded\\00020",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 786416,
+          "text": "110DYP0"
+        }
+      ],
+      "error": null
+    },
+    "TAD158 (R1-Forum.com)/2012-2014-EU-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm": {
+      "index": 21,
+      "source_file": "files/00021-2012-2014-EU-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm",
+      "remote_path": "TAD158 (R1-Forum.com)/2012-2014-EU-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm",
+      "source_sha256": "75a0b55a599817fb01249b014286ae41c6683f7daeef674dc172b5e416081ece",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:35:07.689504+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/75a0b55a599817fb01249b014286ae41c6683f7daeef674dc172b5e416081ece.json",
+      "decrypted": true,
+      "decoded_sha256": "aef9ec5b1bebfb3f599179d92ae0db004faa0ce8150859cfb3dbbe5783db3e6c",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00021",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "G705YPF"
+        }
+      ],
+      "error": null
+    },
+    "TAD158 (R1-Forum.com)/2012-2014-US-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm": {
+      "index": 22,
+      "source_file": "files/00022-2012-2014-US-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm",
+      "remote_path": "TAD158 (R1-Forum.com)/2012-2014-US-R1-V2soft-v6.4.4.8-TAD158-Track-Tune-STD(B)-OptionalA(STD)-Tweaked-A(A).ftm",
+      "source_sha256": "57fbf4ab73b0feeb2cd49ada72cc5d1a0e75230d97fd8837b279b95fe7db31ef",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:35:26.541602+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/57fbf4ab73b0feeb2cd49ada72cc5d1a0e75230d97fd8837b279b95fe7db31ef.json",
+      "decrypted": true,
+      "decoded_sha256": "861592a163ebcf6fc40a9112fe53829b5443d4c65582a2e0b4643003e92b3120",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00022",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "G706YPF"
+        }
+      ],
+      "error": null
+    },
+    "contact015@example.invalid/2017 CBR1000rr SP2 - 38770-MKFA-D72(EU) - StockECU.ftm": {
+      "index": 23,
+      "source_file": "files/00023-2017 CBR1000rr SP2 - 38770-MKFA-D72(EU) - StockECU.ftm",
+      "remote_path": "contact015@example.invalid/2017 CBR1000rr SP2 - 38770-MKFA-D72(EU) - StockECU.ftm",
+      "source_sha256": "b20bf835615e49db3dc8b462f16b943f3ecdd61b4414f83099c31d25c11fdd11",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:35:45.379251+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/b20bf835615e49db3dc8b462f16b943f3ecdd61b4414f83099c31d25c11fdd11.json",
+      "decrypted": true,
+      "decoded_sha256": "6a30cf53047eb20c5f31579a7724086dcc546614fdae595173a9630c4186a865",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00023",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048412,
+          "text": "MKFA209"
+        }
+      ],
+      "error": null
+    },
+    "contact016@example.invalid/ShonZ R1s - B60-8591A-30(27 Feb-19) - K&N Filter & Werkes Exhaust.ftm": {
+      "index": 24,
+      "source_file": "files/00024-ShonZ R1s - B60-8591A-30(27 Feb-19) - K&N Filter & Werkes Exhaust.ftm",
+      "remote_path": "contact016@example.invalid/ShonZ R1s - B60-8591A-30(27 Feb-19) - K&N Filter & Werkes Exhaust.ftm",
+      "source_sha256": "3d97774524633c44175d9bf06cff34655dd34a3b2c3c405daf87e8bfaf730a82",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:36:04.306161+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/3d97774524633c44175d9bf06cff34655dd34a3b2c3c405daf87e8bfaf730a82.json",
+      "decrypted": true,
+      "decoded_sha256": "b79e6e8cd3be91c50c92dc87983a35c7671527a03d7e5b9f4c55e6e9f98f9185",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00024",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "C304YS0"
+        }
+      ],
+      "error": null
+    },
+    "contact017@example.invalid/UB-2012R1EU-AkrapovicEvolution-KN-PCV-AutoTune-1645.ftm": {
+      "index": 25,
+      "source_file": "files/00025-UB-2012R1EU-AkrapovicEvolution-KN-PCV-AutoTune-1645.ftm",
+      "remote_path": "contact017@example.invalid/UB-2012R1EU-AkrapovicEvolution-KN-PCV-AutoTune-1645.ftm",
+      "source_sha256": "53c1a14199a3d69a441781f9781389b7c52771866dabdd0e918d99d216e0d365",
+      "status": "scanned",
+      "updated_utc": "2026-10-31T05:36:23.239637+00:00",
+      "key_attempt": 1,
+      "key_saved": true,
+      "key_file": "keys/53c1a14199a3d69a441781f9781389b7c52771866dabdd0e918d99d216e0d365.json",
+      "decrypted": true,
+      "decoded_sha256": "c92a71aa9f8fa682a619158dbde615c9d9fb7ece1d2e56c27890735211df9d51",
+      "decoded_bytes": 1048576,
+      "output_folder": "decoded\\00025",
+      "scanned": true,
+      "ecu_id_candidates": [
+        {
+          "offset": 1048560,
+          "text": "G705YPF"
+        }
+      ],
+      "error": null
+    }
+  }
+}

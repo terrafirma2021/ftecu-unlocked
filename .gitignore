@@ -1,0 +1,17 @@
+/local-data/
+/offline-settings.json
+/definitions/*
+!/definitions/.gitkeep
+/*.log
+/*.jsonl
+/*.backup
+/**/*.dpapi
+/**/*.encrypted-keys
+/workflow-tests/
+/feature-roundtrip/
+/audit/
+/source/
+/self-test.json
+/shared-self-test.json
+/feature-audit-selection.json
+/.env

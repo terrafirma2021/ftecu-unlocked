@@ -1,0 +1,10 @@
+{
+  "definition_cache": "data/definitions",
+  "account_library": "data/account/library",
+  "library": "data/public/library",
+  "account_input": "data/account/input",
+  "feature_cache": "data/features",
+  "input": "data/public/input",
+  "shared_library": "data/shared/library",
+  "shared_input": "data/shared/input"
+}

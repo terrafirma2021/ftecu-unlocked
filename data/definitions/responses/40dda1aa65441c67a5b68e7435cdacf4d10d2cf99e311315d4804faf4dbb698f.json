@@ -1,0 +1,4 @@
+{
+  "status": "ok",
+  "definition": "||FDFwebpath=/retail/userFDF/6UNFHsLaqAEBSjb7.ftxt|category=hidenode,id=hide_ignition,parent=none,hidenode=ignition|category=hidenode,id=hide_ign_ma_advance,parent=none,hidenode=ign_ma_advance|category=hidenode,id=hide_ignma_N,parent=none,hidenode=ignma_N|category=hidenode,id=hide_ignma_113,parent=none,hidenode=ignma_113|category=hidenode,id=hide_ignma_213,parent=none,hidenode=ignma_213|category=hidenode,id=hide_ignma_146,parent=none,hidenode=ignma_146|category=hidenode,id=hide_ignma_246,parent=none,hidenode=ignma_246"
+}
